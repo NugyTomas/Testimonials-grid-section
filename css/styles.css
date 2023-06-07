@@ -69,6 +69,7 @@ section p{
     background: url(../images/bg-pattern-quotation.svg) hsl(263, 55%, 52%);
     background-repeat: no-repeat;
     background-position: top right 10%;
+    color:white;
 }
 
 .Daniel img {
@@ -87,6 +88,7 @@ section p{
 
 .Patrick {
     background-color: hsl(219, 29%, 14%);
+    color:white;
 }
 
 .Patrick img {
